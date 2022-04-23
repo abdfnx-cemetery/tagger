@@ -1,6 +1,6 @@
 # Tagger
 
-git tag tool
+> git tag tool
 
 ## Install
 
